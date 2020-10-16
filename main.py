@@ -1,3 +1,4 @@
+# script to test reading dictionary in python
 a_dict= {
     "sha": "6ef917b7f281fd3275c67090f7aeab085f8a5924",
     "node_id": "MDY6Q29tbWl0MTI2MjE2ODM3OjZlZjkxN2I3ZjI4MWZkMzI3NWM2NzA5MGY3YWVhYjA4NWY4YTU5MjQ=",
